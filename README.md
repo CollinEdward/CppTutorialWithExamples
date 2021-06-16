@@ -7,4 +7,3 @@ cd CppTutorialWithExamples
 ls
 
 And there you will see the files and executables, you can also open the files in a fx Visual Studio Code or other code viewing applications.
-![](https://github.com/user/aa1_preview.png)
