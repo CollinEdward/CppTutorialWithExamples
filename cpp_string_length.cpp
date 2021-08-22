@@ -16,7 +16,6 @@ void cpp_string_length(){
 }
 
 int main(){
-
     cpp_string_length();
 
 } 

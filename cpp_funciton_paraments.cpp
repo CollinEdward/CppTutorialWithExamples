@@ -8,6 +8,7 @@ void cpp_parament(string fname) {
     cout << fname << " Refsnes\n";
 }
 
+
 // This is the parament string fname, this has position 0, for the paraments
 void cpp_two_paraments(string fname, string mName) {
     // In this function we made a second parament mName, which is then gonna be the middle name
@@ -38,12 +39,16 @@ int plusFuncInt(int x, int y) {
   return x + y;
 }
 
+
+
 // In this function we are just making veriables
 void cpp_swapNums(int &x, int &y) {
   int z = x;
   x = y;
   y = z;
 }
+
+
 
 
 int main() {

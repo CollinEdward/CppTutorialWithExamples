@@ -14,6 +14,8 @@ void never_ending_while_loop(){
     // If you want to see what it looks like with this loop, you can try to call the function in the main function at the buttom
 
 }
+
+
 // This is what an while loop would look like with a condition
 void while_loop_condition(){
     // Veriable x with value 0
@@ -26,7 +28,7 @@ void while_loop_condition(){
     x++;
 
     }
-    
+    // \n just means newline, means that it's going to go one line down and then do the loop again etc
     cout << "\n";
     
 }

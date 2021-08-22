@@ -21,6 +21,7 @@ void cpp_logical_operators(){
 
 }
 
+
 // This is our second sub-function 
 void cpp_logical_operators2(){
     // This line is saying (return true(true is always the first thing after the if statement, true is also = to 1) if one of the statements are true)

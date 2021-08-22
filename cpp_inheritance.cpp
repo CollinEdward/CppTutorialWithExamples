@@ -3,7 +3,7 @@
 using namespace std;
 
 
-// Base class / main class
+// Base class / main class / class is called Vehicle
 class Vehicle {
     public:// veriable string ford
         string brand = "Ford";
@@ -20,6 +20,7 @@ class Car: public Vehicle {
         string model = "Mustang";
 };
 
+// main function
 int main() {
     // make car an abject
     Car myCar;

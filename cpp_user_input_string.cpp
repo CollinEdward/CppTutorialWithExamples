@@ -1,7 +1,9 @@
 #include <iostream>
 
-void cpp_user_input_string(){
+// You don't need to use std:: 
+// you can just write using namespace std;
 
+void cpp_user_input_string(){
     std::string firstName;
     std::cout << "Type your first name: " << std::endl;
     std::cin >> firstName; // get user input from the keyboard
@@ -17,7 +19,6 @@ void cpp_user_input_string(){
 }
 
 int main(){
-
     cpp_user_input_string();
 
 

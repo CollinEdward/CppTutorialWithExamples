@@ -8,11 +8,8 @@ class cpp_constructorclass {
         // calling the class inside the class so it automatically runs when we make a object out of the class in the main function
         cpp_constructorclass() {
             cout << "Hello World!";
-            cout << "\n";
-
-
+            cout << "\n"; // newline
         }
-
 
 };
 

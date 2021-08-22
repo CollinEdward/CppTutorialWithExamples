@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 // main function
 int main(){
     // for loop
@@ -14,7 +13,5 @@ int main(){
         cout << i << "\n";
 
     }
-
-
 
 }

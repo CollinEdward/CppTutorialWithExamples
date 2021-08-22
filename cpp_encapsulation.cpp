@@ -19,6 +19,7 @@ class Employee {
     }
 };
 
+
 int main() {
     Employee myObj;
     myObj.setSalary(50000);
